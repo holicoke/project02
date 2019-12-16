@@ -134,12 +134,12 @@ input[type=submit] {
 	height: 0;
 	padding-top: 100px;
 	text-align:center;
-	background: rgba(254,209,54,0.9);
 	transition: height 0.3s;
 }
 #tab_gnb.active {
 	display: block;
 	height: 100%;
+	background: rgba(254,209,54,0.9);
 }
 #tab_gnb li {
 	position: relative;
